@@ -1,0 +1,65 @@
+[
+    { "id": 1,
+      "image": "https://i.postimg.cc/8FTNgBFM/Rectangle-2.png",
+      "course_name": "Digital Marketing Fundamentals",
+      "credit": 3,
+      "price": "$49.99",
+      "details": "This course covers the basics of digital marketing, including SEO, SEM, social media marketing, and email marketing. Suitable for beginners."
+    },
+    { "id": 2,
+      "image": "https://i.postimg.cc/qgWrvdhk/Rectangle-2-1.png",
+      "course_name": "Advanced Web Development",
+      "credit": 4,
+      "price": "$79.99",
+      "details": "An advanced course in web development covering topics such as JavaScript frameworks, server-side scripting, and responsive design."
+    },
+    { "id": 3,
+      "image": "https://i.postimg.cc/c6vZWJJ9/Rectangle-2-3.png",
+      "course_name": "Data Analytics for Business",
+      "credit": 5,
+      "price": "$99.99",
+      "details": "Learn how to analyze business data using statistical techniques and data visualization tools. Suitable for professionals in marketing, finance, and operations."
+    },
+    { "id": 4,
+      "image": "https://i.postimg.cc/gXTWhCgH/Rectangle-2-4.png",
+      "course_name": "Mobile App Development",
+      "credit": 4,
+      "price": "$69.99",
+      "details": "Develop mobile applications for iOS and Android platforms using industry-standard tools and technologies. Prerequisite: basic programming knowledge."
+    },
+    { "id": 5,
+      "image": "https://i.postimg.cc/ZC3S9Dp6/Rectangle-2-5.png",
+      "course_name": "Social Media Marketing Strategy",
+      "credit": 2,
+      "price": "$29.99",
+      "details": "Craft effective social media marketing strategies to build brand awareness, engage audiences, and drive conversions. Includes case studies and practical exercises."
+    },
+    { "id": 6,
+      "image": "https://i.postimg.cc/5Y0J64St/Rectangle-2-6.png",
+      "course_name": "UI/UX Design Essentials",
+      "credit": 3,
+      "price": "$59.99",
+      "details": "Learn the fundamentals of user interface (UI) and user experience (UX) design principles and best practices. Hands-on projects included."
+    },
+    { "id": 7,
+      "image": "https://i.postimg.cc/Bj0G2cBk/Rectangle-3.png",
+      "course_name": "Content Marketing Mastery",
+      "credit": 3,
+      "price": "$49.99",
+      "details": "Master the art of content marketing, including content creation, distribution, and measurement. Suitable for marketers, bloggers, and entrepreneurs."
+    },
+    { "id": 8,
+      "image": "https://i.postimg.cc/JHHW5pgV/Rectangle-3-1.png",
+      "course_name": "E-commerce Essentials",
+      "credit": 2,
+      "price": "$39.99",
+      "details": "Learn how to launch and manage a successful e-commerce business, including product sourcing, online store setup, and digital marketing strategies."
+    }, 
+    { "id": 9,
+      "image": "https://i.postimg.cc/67zwW2RS/Rectangle-2-2.png",
+      "course_name": "Search Engine Optimization (SEO) Mastery",
+      "credit": 4,
+      "price": "$59.99",
+      "details": "Become an expert in SEO techniques to improve website ranking, drive organic traffic, and increase online visibility. Includes advanced keyword research and link building strategies."
+    }
+  ]
